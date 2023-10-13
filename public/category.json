@@ -1,0 +1,19 @@
+[
+  { "id": 1, "url": "/", "category": "All" },
+  { "id": 2, "url": "/object", "category": "Add Object" },
+  { "id": 3, "url": "/bgchnage", "category": "Background Change" },
+  { "id": 4, "url": "/banner", "category": "Banner" },
+  { "id": 5, "url": "/basic", "category": "Basic Adjustment" },
+  { "id": 6, "url": "/color", "category": "Color Change" },
+  { "id": 7, "url": "/face", "category": "Face Swap" },
+  { "id": 8, "url": "/hdr", "category": "HDR Editing" },
+  { "id": 9, "url": "/logo", "category": "Logo Add" },
+  { "id": 10, "url": "/mani", "category": "Manipulation" },
+  { "id": 11, "url": "/objremove", "category": "Object Remove" },
+  { "id": 12, "url": "/panaroma", "category": "Panaroma Stitching" },
+  { "id": 13, "url": "/photo", "category": "Photo Manipulation" },
+  { "id": 14, "url": "/resto", "category": "Photo Restoraition" },
+  { "id": 15, "url": "/portrait", "category": "Portrait Editing" },
+  { "id": 16, "url": "/poster", "category": "Posters" },
+  { "id": 17, "url": "/retouch", "category": "Retouching" }
+]
