@@ -1,3 +1,4 @@
+import ExModal from "../../Components/Gallary/ExModal";
 import Gallery from "../../Components/Gallary/Gallery";
 import Header from "../../Components/Header/Header";
 
@@ -6,6 +7,7 @@ const Home = () => {
     <main className="font-roboto">
       <Header></Header>
       <Gallery />
+      <ExModal />
     </main>
   );
 };

@@ -46,11 +46,13 @@ export default function Gallery() {
           >
             <Masonry columnsCount={3} gutter="10px">
               {photos.map((image, i) => (
-                <img
-                  key={i}
-                  src={image.src}
-                  style={{ width: "100%", display: "block" }}
-                />
+                <>
+                  <img
+                    key={i}
+                    src={image.src}
+                    style={{ width: "100%", display: "block" }}
+                  />
+                </>
               ))}
             </Masonry>
           </ResponsiveMasonry>

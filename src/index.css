@@ -2,3 +2,6 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.ReactModal__Content--after-open {
+  inset: 15px !important;
+}
